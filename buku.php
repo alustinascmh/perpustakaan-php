@@ -40,7 +40,7 @@
             </tbody>
         </table>
     <br>
-    <a href="./tambah-buku.php" class="btn btn-info">Tambah Data Buku</a>
+    <a href="./tambah-buku.php" class="btn btn-info">Tambah Buku</a>
     <a href="./index.php" class="btn btn-warning">Kembali ke Halaman Utama</a>
     </div>
 </body>
